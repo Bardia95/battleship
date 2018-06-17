@@ -1,0 +1,23 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "Custom Battleship Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bardia95/battleship.git"
+  },
+  "keywords": [
+    "Battleship",
+    "JS"
+  ],
+  "author": "Bardia95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bardia95/battleship/issues"
+  },
+  "homepage": "https://github.com/Bardia95/battleship#readme"
+}
